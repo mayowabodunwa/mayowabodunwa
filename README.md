@@ -1,6 +1,6 @@
 # Mayowa Bodunwa
 
-Customer Support Engineer focused on helping technical teams solve difficult problems across data platforms, cloud infrastructure, APIs, and CI/CD systems.
+Technical Support Engineer focused on helping technical teams solve difficult problems across data platforms, cloud infrastructure, APIs, and CI/CD systems.
 
 My work sits at the intersection of customers and complex systems: debugging failures that may originate in a deployment pipeline, API response, database source, access policy, or infrastructure configuration. I support enterprise migrations, embedded analytics workflows, SQL dashboards, and cloud-based applications—always with an emphasis on clear communication, reliable troubleshooting, and reducing friction for customers.
 
