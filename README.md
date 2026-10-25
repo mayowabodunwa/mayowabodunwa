@@ -11,9 +11,7 @@ I’ve helped establish support operations in fast-moving environments and suppo
 
 ### Selected work
 
-- [semgrep-fixes](https://github.com/mayowabodunwa/semgrep-fixes) — Reference configurations for running static analysis in CI across multiple platforms, based on common real-world failure modes.
 - [learning-digests](https://github.com/mayowabodunwa/learning-digests) — An automated workflow that turns technical reading into published learning digests on a twice-daily schedule.
 - [aws-projects](https://github.com/mayowabodunwa/aws-projects) — Terraform-based AWS projects, including highly available applications, container based applications and serverless architectures.
-- [udacity-cloud-devops-projects](https://github.com/mayowabodunwa/udacity-cloud-devops-projects) — Cloud and DevOps coursework covering CloudFormation, CI/CD, Ansible, and Kubernetes.
 
 📍 Benin City, Nigeria · [LinkedIn](https://linkedin.com/in/mayowa-bodunwa) · bodunwamayowa@gmail.com
