@@ -1,6 +1,6 @@
 # Mayowa Bodunwa
 
-**Technical Support Engineer | Cloud, APIs, CI/CD & Data Platforms**
+**Technical Support Engineer | Cloud Support Engineer**
 
 I help technical teams find the cause of complex problems and get back to building. My work spans cloud infrastructure, APIs, databases, deployment pipelines, and embedded analytics.
 
