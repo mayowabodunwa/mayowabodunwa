@@ -8,11 +8,6 @@ I’ve supported enterprise migrations and developer workflows across AWS, Azure
 
 **Currently:** Supporting platform migrations and embedded analytics while deepening my knowledge of distributed systems and database performance.
 
-**Focus areas:** Technical support · CI/CD · AWS · Terraform · APIs · SQL · Data migrations · Customer enablement
-
-### Selected work
-
-- [Learning Digests](https://github.com/mayowabodunwa/learning-digests) — An automated workflow that turns technical reading into published digests twice a day.
-- [AWS Projects](https://github.com/mayowabodunwa/aws-projects) — Terraform projects covering highly available applications, containers, and serverless architectures.
+**Focus areas:** Technical support · Cloud Support · Technical Mentoring
 
 📍 Benin City, Nigeria · [LinkedIn](https://linkedin.com/in/mayowa-bodunwa) · bodunwamayowa@gmail.com
