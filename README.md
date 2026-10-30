@@ -6,7 +6,7 @@ I help technical teams find the cause of complex problems and get back to buildi
 
 I’ve supported enterprise migrations and developer workflows across AWS, Azure, Terraform, Kubernetes, Snowflake, GitHub, GitLab, Bitbucket, and Jenkins. I’m known for clear communication, structured troubleshooting, and making difficult issues easier to act on.
 
-**Currently:** Supporting platform migrations and embedded analytics while deepening my knowledge of distributed systems and database performance.
+**Currently:** Supporting platform migrations and embedded analytics while deepening my knowledge of distributed systems.
 
 **Focus areas:** Technical support · Cloud Support · Technical Mentoring
 
